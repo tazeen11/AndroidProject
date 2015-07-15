@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash__screen">Splash_Screen</string>
+    <string name="title_activity_login__screen">Login_Screen</string>
+    <string name="title_activity_splash__animated">Splash_Animated</string>
+</resources>
